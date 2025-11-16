@@ -228,6 +228,4 @@ MIT License - see the LICENSE file for details
 
 For issues, questions, or contributions, please open an issue in the repository.
 
----
 
-**Built with ❤️ for safer skies and smarter aviation**
